@@ -11,7 +11,7 @@
     "@snowpack/plugin-build-script": "^2.0.12",
     "@snowpack/plugin-run-script": "^2.2.1",
     "autoprefixer": "^10.1.0",
-    "postcss": "^8.1.9",
+    "postcss": "^8.2.10",
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.0",
     "snowpack": "^3.0.0-rc.2"
